@@ -1,0 +1,11 @@
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/MapFunctionLambdaDriver.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/JoinPurchasePayments.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/MapFunctionLambdaExample.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/target/generated/avro/com/luxoft/eas026/streams/PayedPurchase.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/target/generated/avro/com/luxoft/eas026/streams/Purchase.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/UpperCaseProcessor.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/PurchaseStatisticsExample.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/JoinPurchasePaymentDriver.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/UpperCaseProcessorExample.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/target/generated/avro/com/luxoft/eas026/streams/Payment.java
+/Users/adb/EAS-026/by_module/Module_6/kafka-streams-examples/src/main/java/com/luxoft/eas026/streams/PurchaseStatisticsDriver.java
